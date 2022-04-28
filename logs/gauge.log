@@ -1,0 +1,336 @@
+27-04-2022 19:27:11.813 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:27:11.814 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:27:11.815 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:27:11.815 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:27:11.815 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:27:11.904 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:27:11.904 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:27:11.904 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:27:11.904 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:27:12.251 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:27:12.252 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:27:12.363 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56157
+27-04-2022 19:27:12.365 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56157
+27-04-2022 19:27:12.365 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:27:12.374 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:27:12.374 [Gauge] [DEBUG] Run started
+27-04-2022 19:27:12.376 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:27:12.464 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56162
+27-04-2022 19:27:12.464 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56162
+27-04-2022 19:27:12.464 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:27:12.583 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:27:12.678 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:27:32.359 [Gauge] [INFO] # Getting Started with Gauge
+27-04-2022 19:27:32.365 [Gauge] [INFO] ## Display number of items
+27-04-2022 19:27:32.378 [Gauge] [DEBUG] * Open todo application
+
+27-04-2022 19:27:35.100 [Gauge] [DEBUG] * Add task "first task"
+27-04-2022 19:27:36.313 [Gauge] [DEBUG] * Must display "1 item left"
+27-04-2022 19:27:36.323 [Gauge] [DEBUG] * Add task "second task"
+27-04-2022 19:27:37.556 [Gauge] [DEBUG] * Must display "2 items left"
+27-04-2022 19:27:37.839 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:27:38.095 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:27:38.095 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:27:38.095 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:27:38.298 [Gauge] [DEBUG] Runner with PID:97917 has exited
+27-04-2022 19:27:38.298 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:27:38.298 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:27:38.298 [Gauge] [INFO] 
+Total time taken: 25.464s
+27-04-2022 19:27:38.299 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+27-04-2022 19:29:47.820 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:29:47.821 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:29:47.821 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:29:47.822 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:29:47.822 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:29:47.911 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:29:47.912 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:29:47.912 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:29:47.912 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:29:48.071 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56200
+27-04-2022 19:29:48.073 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56200
+27-04-2022 19:29:48.073 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:29:48.079 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:29:48.079 [Gauge] [DEBUG] Run started
+27-04-2022 19:29:48.081 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:29:48.088 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56205
+27-04-2022 19:29:48.089 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56205
+27-04-2022 19:29:48.089 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:29:48.254 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:29:48.255 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:29:48.726 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:29:48.862 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:29:51.269 [Gauge] [INFO] # Lavora con noi
+27-04-2022 19:29:51.276 [Gauge] [INFO] ## Visualizza offerte UX
+27-04-2022 19:29:51.279 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:29:51.300 [js] [ERROR] Error: Navigation to url http://flowing.it failed. REASON: net::ERR_ABORTED
+27-04-2022 19:29:51.314 [js] [ERROR] at Object.handleNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/handlers/pageHandler.js:193:13)
+27-04-2022 19:29:51.314 [js] [ERROR] at async /Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:749:16
+27-04-2022 19:29:51.307 [Gauge] [ERROR] Error Message: error reading from server: EOF
+27-04-2022 19:29:51.309 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:29:51.315 [Gauge] [ERROR] Stacktrace: 
+27-04-2022 19:29:51.315 [js] [ERROR] at async doActionAwaitingNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/doActionAwaitingNavigation.js:61:5)
+27-04-2022 19:29:51.315 [js] [ERROR] at async module.exports.goto (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:748:3)
+27-04-2022 19:29:51.315 [js] [ERROR] at async module.exports.<computed> (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:2626:14)
+27-04-2022 19:29:51.336 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:29:51.336 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:29:51.336 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:29:51.336 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:56200: connect: connection refused"
+27-04-2022 19:29:51.337 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:29:51.337 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:29:51.337 [Gauge] [INFO] 
+Total time taken: 3.228s
+27-04-2022 19:29:51.337 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+27-04-2022 19:30:02.465 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:30:02.465 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:30:02.466 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:30:02.466 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:30:02.466 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:30:02.548 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:30:02.548 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:30:02.549 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:30:02.549 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:30:02.682 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56225
+27-04-2022 19:30:02.683 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56225
+27-04-2022 19:30:02.683 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:30:02.687 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:30:02.687 [Gauge] [DEBUG] Run started
+27-04-2022 19:30:02.689 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:30:02.695 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56230
+27-04-2022 19:30:02.695 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56230
+27-04-2022 19:30:02.695 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:30:02.795 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:30:02.795 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:03.119 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:03.333 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:04.412 [Gauge] [INFO] # Lavora con noi
+27-04-2022 19:30:04.417 [Gauge] [INFO] ## Visualizza offerte UX
+27-04-2022 19:30:04.432 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:30:04.453 [js] [ERROR] Error: Navigation to url http://flowing.it failed. REASON: net::ERR_ABORTED
+27-04-2022 19:30:04.469 [js] [ERROR] at Object.handleNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/handlers/pageHandler.js:193:13)
+27-04-2022 19:30:04.463 [Gauge] [ERROR] Error Message: error reading from server: EOF
+27-04-2022 19:30:04.463 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:30:04.524 [js] [ERROR] at async /Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:749:16
+27-04-2022 19:30:04.524 [Gauge] [ERROR] Stacktrace: 
+27-04-2022 19:30:04.594 [js] [ERROR] at async doActionAwaitingNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/doActionAwaitingNavigation.js:61:5)
+27-04-2022 19:30:04.628 [js] [ERROR] at async module.exports.goto (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:748:3)
+27-04-2022 19:30:04.646 [js] [ERROR] at async module.exports.<computed> (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:2626:14)
+27-04-2022 19:30:04.743 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:30:04.759 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:30:04.757 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:30:04.760 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:56225: connect: connection refused"
+27-04-2022 19:30:04.760 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:30:04.760 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:30:04.760 [Gauge] [INFO] 
+Total time taken: 1.775s
+27-04-2022 19:30:04.760 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+27-04-2022 19:30:20.843 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:30:20.843 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:30:20.844 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:30:20.844 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:30:20.844 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:30:20.926 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:30:20.926 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:30:20.926 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:30:20.926 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:30:21.084 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56246
+27-04-2022 19:30:21.085 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56246
+27-04-2022 19:30:21.085 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:30:21.091 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:30:21.091 [Gauge] [DEBUG] Run started
+27-04-2022 19:30:21.092 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:30:21.125 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56251
+27-04-2022 19:30:21.126 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56251
+27-04-2022 19:30:21.126 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:30:21.220 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:30:21.220 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:21.693 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:21.828 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:22.645 [Gauge] [INFO] # Lavora con noi
+27-04-2022 19:30:22.664 [Gauge] [INFO] ## Visualizza offerte UX
+27-04-2022 19:30:22.668 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:30:22.688 [js] [ERROR] Error: Navigation to url http://flowing.it failed. REASON: net::ERR_ABORTED
+27-04-2022 19:30:22.700 [js] [ERROR] at Object.handleNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/handlers/pageHandler.js:193:13)
+27-04-2022 19:30:22.698 [Gauge] [ERROR] Error Message: error reading from server: EOF
+27-04-2022 19:30:22.699 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:30:22.723 [js] [ERROR] at async /Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:749:16
+27-04-2022 19:30:22.772 [Gauge] [ERROR] Stacktrace: 
+27-04-2022 19:30:22.840 [js] [ERROR] at async doActionAwaitingNavigation (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/doActionAwaitingNavigation.js:61:5)
+27-04-2022 19:30:22.861 [js] [ERROR] at async module.exports.goto (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:748:3)
+27-04-2022 19:30:22.861 [js] [ERROR] at async module.exports.<computed> (/Users/cristianogiulioni/Code/Pill/gauge/flowing/node_modules/taiko/lib/taiko.js:2626:14)
+27-04-2022 19:30:22.986 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:30:23.003 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:30:23.000 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:30:23.003 [Gauge] [ERROR] Failed to kill Runner: rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing dial tcp 127.0.0.1:56246: connect: connection refused"
+27-04-2022 19:30:23.004 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:30:23.004 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:30:23.004 [Gauge] [INFO] 
+Total time taken: 1.606s
+27-04-2022 19:30:23.004 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+27-04-2022 19:30:55.398 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:30:55.398 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:30:55.399 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:30:55.399 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:30:55.399 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:30:55.484 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:30:55.484 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:30:55.484 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:30:55.484 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:30:55.632 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56292
+27-04-2022 19:30:55.633 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56292
+27-04-2022 19:30:55.633 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:30:55.639 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:30:55.639 [Gauge] [DEBUG] Run started
+27-04-2022 19:30:55.640 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:30:55.663 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56297
+27-04-2022 19:30:55.664 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56297
+27-04-2022 19:30:55.664 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:30:55.734 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:30:55.734 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:55.998 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:56.307 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:30:59.218 [Gauge] [INFO] # Lavora con noi
+27-04-2022 19:30:59.227 [Gauge] [INFO] ## Visualizza offerte UX
+27-04-2022 19:30:59.247 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:30:59.623 [Gauge] [ERROR] Failed Step: Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:30:59.623 [Gauge] [ERROR] Error Message: "Unimplemented Step"
+27-04-2022 19:30:59.623 [Gauge] [ERROR] Specification: specs/example.spec:6
+27-04-2022 19:30:59.623 [Gauge] [ERROR] Stacktrace: 
+27-04-2022 19:30:59.942 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:30:59.951 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:30:59.951 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:30:59.951 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:31:00.155 [Gauge] [DEBUG] Runner with PID:98288 has exited
+27-04-2022 19:31:00.155 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+27-04-2022 19:31:00.155 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+27-04-2022 19:31:00.155 [Gauge] [INFO] 
+Total time taken: 4.302s
+27-04-2022 19:31:00.155 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+27-04-2022 19:31:23.887 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+27-04-2022 19:31:23.888 [Gauge] [DEBUG] Plugin js is already installed.
+27-04-2022 19:31:23.888 [Gauge] [DEBUG] Plugin html-report is already installed.
+27-04-2022 19:31:23.889 [Gauge] [DEBUG] Parsing started.
+27-04-2022 19:31:23.889 [Gauge] [DEBUG] Started concepts parsing.
+27-04-2022 19:31:23.974 [Gauge] [DEBUG] 0 concepts parsing completed.
+27-04-2022 19:31:23.974 [Gauge] [DEBUG] Started specifications parsing.
+27-04-2022 19:31:23.974 [Gauge] [DEBUG] 1 specifications parsing completed.
+27-04-2022 19:31:23.974 [Gauge] [DEBUG] Parsing completed.
+27-04-2022 19:31:24.114 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56315
+27-04-2022 19:31:24.115 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56315
+27-04-2022 19:31:24.115 [Gauge] [DEBUG] Validation started.
+27-04-2022 19:31:24.120 [Gauge] [DEBUG] Validation completed.
+27-04-2022 19:31:24.120 [Gauge] [DEBUG] Run started
+27-04-2022 19:31:24.121 [Gauge] [DEBUG] Starting Html Report plugin
+27-04-2022 19:31:24.128 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56320
+27-04-2022 19:31:24.128 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56320
+27-04-2022 19:31:24.128 [Gauge] [DEBUG] Initialising suite data store.
+27-04-2022 19:31:24.316 [Gauge] [DEBUG] Checking updates...
+27-04-2022 19:31:24.316 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:31:24.724 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:31:24.841 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+27-04-2022 19:31:25.397 [Gauge] [INFO] # Lavora con noi
+27-04-2022 19:31:25.403 [Gauge] [INFO] ## Visualizza offerte UX
+27-04-2022 19:31:25.422 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+27-04-2022 19:31:30.275 [html-report] [DEBUG] Transformed SuiteResult to report structure
+27-04-2022 19:31:30.279 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+27-04-2022 19:31:30.279 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+27-04-2022 19:31:30.280 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+27-04-2022 19:31:30.483 [Gauge] [DEBUG] Runner with PID:98350 has exited
+27-04-2022 19:31:30.483 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:31:30.483 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+27-04-2022 19:31:30.483 [Gauge] [INFO] 
+Total time taken: 6.155s
+27-04-2022 19:31:30.483 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+28-04-2022 08:35:46.306 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+28-04-2022 08:35:46.322 [Gauge] [DEBUG] Plugin js is already installed.
+28-04-2022 08:35:46.323 [Gauge] [DEBUG] Plugin html-report is already installed.
+28-04-2022 08:35:46.324 [Gauge] [DEBUG] Parsing started.
+28-04-2022 08:35:46.324 [Gauge] [DEBUG] Started concepts parsing.
+28-04-2022 08:35:46.519 [Gauge] [DEBUG] 0 concepts parsing completed.
+28-04-2022 08:35:46.519 [Gauge] [DEBUG] Started specifications parsing.
+28-04-2022 08:35:46.535 [Gauge] [DEBUG] 1 specifications parsing completed.
+28-04-2022 08:35:46.535 [Gauge] [DEBUG] Parsing completed.
+28-04-2022 08:35:46.750 [Gauge] [DEBUG] Checking updates...
+28-04-2022 08:35:46.750 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:35:46.978 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64283
+28-04-2022 08:35:46.981 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64283
+28-04-2022 08:35:46.981 [Gauge] [DEBUG] Validation started.
+28-04-2022 08:35:46.988 [Gauge] [DEBUG] Validation completed.
+28-04-2022 08:35:46.988 [Gauge] [DEBUG] Run started
+28-04-2022 08:35:46.989 [Gauge] [DEBUG] Starting Html Report plugin
+28-04-2022 08:35:47.116 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64289
+28-04-2022 08:35:47.117 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64289
+28-04-2022 08:35:47.117 [Gauge] [DEBUG] Initialising suite data store.
+28-04-2022 08:35:47.329 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:35:47.419 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:35:49.830 [Gauge] [INFO] # Lavora con noi
+28-04-2022 08:35:49.859 [Gauge] [INFO] ## Visualizza offerte UX
+28-04-2022 08:35:49.862 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+28-04-2022 08:35:54.517 [html-report] [DEBUG] Transformed SuiteResult to report structure
+28-04-2022 08:35:54.535 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+28-04-2022 08:35:54.535 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+28-04-2022 08:35:54.535 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+28-04-2022 08:35:54.739 [Gauge] [DEBUG] Runner with PID:39293 has exited
+28-04-2022 08:35:54.739 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+28-04-2022 08:35:54.739 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+28-04-2022 08:35:54.739 [Gauge] [INFO] 
+Total time taken: 7.529s
+28-04-2022 08:35:54.739 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+28-04-2022 08:44:40.041 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge/flowing/.gauge/screenshots
+28-04-2022 08:44:40.042 [Gauge] [DEBUG] Plugin js is already installed.
+28-04-2022 08:44:40.043 [Gauge] [DEBUG] Plugin html-report is already installed.
+28-04-2022 08:44:40.043 [Gauge] [DEBUG] Parsing started.
+28-04-2022 08:44:40.043 [Gauge] [DEBUG] Started concepts parsing.
+28-04-2022 08:44:40.194 [Gauge] [DEBUG] 0 concepts parsing completed.
+28-04-2022 08:44:40.194 [Gauge] [DEBUG] Started specifications parsing.
+28-04-2022 08:44:40.194 [Gauge] [DEBUG] 1 specifications parsing completed.
+28-04-2022 08:44:40.194 [Gauge] [DEBUG] Parsing completed.
+28-04-2022 08:44:40.349 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64483
+28-04-2022 08:44:40.351 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64483
+28-04-2022 08:44:40.351 [Gauge] [DEBUG] Validation started.
+28-04-2022 08:44:40.357 [Gauge] [DEBUG] Validation completed.
+28-04-2022 08:44:40.357 [Gauge] [DEBUG] Run started
+28-04-2022 08:44:40.358 [Gauge] [DEBUG] Starting Html Report plugin
+28-04-2022 08:44:40.390 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64488
+28-04-2022 08:44:40.392 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64488
+28-04-2022 08:44:40.392 [Gauge] [DEBUG] Initialising suite data store.
+28-04-2022 08:44:40.448 [Gauge] [DEBUG] Checking updates...
+28-04-2022 08:44:40.449 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:44:40.862 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:44:40.931 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:44:45.536 [Gauge] [INFO] # Lavora con noi
+28-04-2022 08:44:45.539 [Gauge] [INFO] ## Visualizza offerte UX
+28-04-2022 08:44:45.544 [Gauge] [DEBUG] * Come utente vorrei poter accedere al sito di Flowing.it
+28-04-2022 08:44:51.540 [html-report] [DEBUG] Transformed SuiteResult to report structure
+28-04-2022 08:44:51.545 [html-report] [INFO] Successfully generated html-report to => /Users/cristianogiulioni/Code/Pill/gauge/flowing/reports/html-report/index.html
+28-04-2022 08:44:51.545 [html-report] [DEBUG] Done generating HTML report using theme from /Users/cristianogiulioni/.gauge/plugins/html-report/4.1.2/themes/default
+28-04-2022 08:44:51.546 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+28-04-2022 08:44:51.749 [Gauge] [DEBUG] Runner with PID:39626 has exited
+28-04-2022 08:44:51.749 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+28-04-2022 08:44:51.749 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+28-04-2022 08:44:51.749 [Gauge] [INFO] 
+Total time taken: 11.182s
+28-04-2022 08:44:51.750 [Gauge] [INFO] Updates are available. Run `gauge update -c` for more info.
+28-04-2022 08:50:54.002 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/cristianogiulioni/Code/Pill/gauge-pill/.gauge/screenshots
+28-04-2022 08:50:54.010 [Gauge] [DEBUG] Plugin html-report is already installed.
+28-04-2022 08:50:54.011 [Gauge] [DEBUG] Plugin js is already installed.
+28-04-2022 08:50:54.012 [Gauge] [DEBUG] Parsing started.
+28-04-2022 08:50:54.012 [Gauge] [DEBUG] Started concepts parsing.
+28-04-2022 08:50:54.104 [Gauge] [DEBUG] 0 concepts parsing completed.
+28-04-2022 08:50:54.104 [Gauge] [DEBUG] Started specifications parsing.
+28-04-2022 08:50:54.104 [Gauge] [ERROR] [ParseError] /Users/cristianogiulioni/Code/Pill/gauge-pill/specs/example.spec:1 Spec does not have any elements => ''
+28-04-2022 08:50:54.104 [Gauge] [DEBUG] 1 specifications parsing completed.
+28-04-2022 08:50:54.104 [Gauge] [DEBUG] Parsing completed.
+28-04-2022 08:50:54.452 [Gauge] [DEBUG] Checking updates...
+28-04-2022 08:50:54.453 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:50:54.548 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64633
+28-04-2022 08:50:54.550 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64633
+28-04-2022 08:50:54.550 [Gauge] [DEBUG] Validation started.
+28-04-2022 08:50:54.550 [Gauge] [DEBUG] Validation completed.
+28-04-2022 08:50:54.550 [Gauge] [DEBUG] Run started
+28-04-2022 08:50:54.551 [Gauge] [DEBUG] Starting Html Report plugin
+28-04-2022 08:50:54.631 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64638
+28-04-2022 08:50:54.631 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64638
+28-04-2022 08:50:54.631 [Gauge] [DEBUG] Initialising suite data store.
+28-04-2022 08:50:54.786 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/js?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
+28-04-2022 08:50:54.881 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=js&p=html-report,js,screenshot&o=darwin&a=arm64
